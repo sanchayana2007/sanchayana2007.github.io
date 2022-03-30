@@ -91,7 +91,7 @@ if os.path.isdir("./.git"):
     
 
     if username and token:
-        CMD = "git push  http://" + username + ":"+ token + "@github.com/sanchayana2007/HackerRanksTypesolutions.git"
+        CMD = "git push  http://" + username + ":"+ token + "@github.com/sanchayana2007/sanchayana2007.github.io.git"
 
 
         try :
